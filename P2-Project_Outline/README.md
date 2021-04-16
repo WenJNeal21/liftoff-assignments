@@ -7,12 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+We are planning on making a virtual hangout zone app where people can rate and review restaurants or find different hangout spots and save them.
 ### Features
-Include Features here
+User input: user will setup a profile and login to the app.
+Search: user can search for specific locations through fields such as zip code, state, and/or city.
+Review post: user will be able to review any location they find and rate their experience.
 ### Technologies
-Include Technologies here
+We will be using Java, javascript and some MySQL.
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll have to learn how to really work with front end and back end development.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/ca6ktXt0/final-project-kanban-board
